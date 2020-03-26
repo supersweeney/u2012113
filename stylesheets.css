@@ -1,0 +1,78 @@
+.header{
+
+		color: #ffa500;
+		text-shadow: 1px 1px 1px white;
+		border: 5px;
+		border-style: hidden;
+		border-color: black;
+		padding-left: 20px;
+		font-size: 27px;
+	}
+.nav{
+	text-align: center;
+	padding-top: 15px;
+	color: white;
+	font-size: 25px;
+
+}
+.homepagetext{
+	width: 50%;
+	float: left;
+	color: white;
+	border-right-style:solid;
+
+	}
+
+.righthomepagetext{
+	float: right;
+	width: 49%;
+	color: white;
+}
+a:visited{
+	color:#ffa500;
+}
+a:link{
+	color: #ffa500;
+}
+a:hover{
+	background-color: #d3d3d3;
+}
+.form{
+float: left;
+margin-left: 50px;
+
+}
+th{
+	padding: 10px;
+	font-size: 22px;
+	border: 1px solid #ffa500;
+}
+table{
+	margin: 25px 25px 25px 50px;
+	border: 1px solid #ffa500;
+}
+td{
+	padding: 10px;
+	font-size: 22px;
+	border: 1px solid #ffa500;
+}
+p{
+	color: white;
+	font-size: 21px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+blockquote{
+	color: white;
+	font-size: 21px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+label{
+	color: white;
+	font-size: 21px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+
+body {background-color: #303942;
+color: white;
+}
